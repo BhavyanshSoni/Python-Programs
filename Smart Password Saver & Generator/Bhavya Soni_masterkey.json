@@ -1,0 +1,8 @@
+{
+    "version": 1,
+    "master_salt": "6YNXtTxakl6BJa8cB5PAVg==",
+    "master_hash": "AfER_Dh6CFsvoQAEfL-391OuUpDQhlMH5l8z7azPaDE=",
+    "master_iterations": 300000,
+    "vault_enc_salt": "qkooOzTgfkWBrPsHqCdMbg==",
+    "vault_enc_iterations": 400000
+}
