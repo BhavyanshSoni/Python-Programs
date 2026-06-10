@@ -1,0 +1,6 @@
+product_id,name,category,cost_price,selling_price,quantity,stock_value_cost,stock_value_retail
+SKU-004,Desk Lamp LED,Furniture,22.0,49.99,7,154.0,349.93
+SKU-005,Ergonomic Chair,Furniture,180.0,349.99,3,540.0,1049.97
+SKU-003,Notebook A5,Stationery,1.2,3.49,120,144.0,418.8
+SKU-002,USB-C Hub,Electronics,18.0,39.99,28,504.0,1119.72
+SKU-001,Wireless Mouse,Electronics,12.5,24.99,45,562.5,1124.55
